@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Водитель</string>
+    <string name="unknow_error">Неизвестная ошибка</string>
+    <string name="internet_error">Включите интернет соединение</string>
+    <string name="typeYourPhone">Напишите ваш номер</string>
+    <string name="google_play_services_version">AIzaSyDUwhlpulPNHCtw2iYVHQnF6tLd3k-Egsw</string>
+    <string name="call_label">Call</string>
+    <string name="changeNumber">Change number</string>
+    <string name="balance">Баланс:</string>
+    <string name="uploadCheck">Upload check</string>
+    <string name="how_replenish_balance">ПОПОЛНИТЬ</string>
+    <string name="lbl_amount">Сумма:</string>
+    <string name="lbl_ccy">Валюта:</string>
+    <string name="lbl_email">Емейл:</string>
+    <string name="lbl_description">Description:</string>
+    <string name="btn_pay">Pay</string>
+    <string name="e_invalid_amount">Invalid amount</string>
+    <string name="e_invalid_email">Invalid email</string>
+    <string name="e_invalid_description">Enter description</string>
+    <string name="online_pay">Пополнить карточкой Visa</string>
+    <string name="app_label">Нажмите кнопку: \"Попутное такси\"</string>
+    <string name="service">Найдите раздел: \"Услуги такси\"</string>
+    <string name="move_to_other_service">Зайдите в раздел: \"Другие услуги\"</string>
+    <string name="new_phone_number">У вас новый номер? Тогда создайте другой аккаунт Google.</string>
+    <string name="rate_app_text">Оцените приложение.\n
+        Спасибо за вашу поддержку!</string>
+</resources>
